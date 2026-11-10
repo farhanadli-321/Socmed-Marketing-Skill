@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "skills": {
+    "content-calendar-sms": {
+      "source": "blacktwist/social-media-skills",
+      "sourceType": "github",
+      "skillPath": "skills/content-calendar-sms/SKILL.md",
+      "computedHash": "072497335e3d19b2ea238d4f61764663f7ec5b1039a4e13387c25cf26fc1d040"
+    },
+    "content-strategy": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/content-strategy/SKILL.md",
+      "computedHash": "a49a1d798082fd7395df917ccdf15311f9aadb097b8b0957a058b09e27fec83f"
+    },
+    "copywriting": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/copywriting/SKILL.md",
+      "computedHash": "6aaa371ad7277c452b650c838bd94ae061ae70bcd564f357b6e32feaec5c130f"
+    },
+    "product-marketing": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/product-marketing/SKILL.md",
+      "computedHash": "f340b9b102a2fbfdc107f9a899c22d4a81fc691a1e98d45ea97b3771d7171bea"
+    },
+    "social": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/social/SKILL.md",
+      "computedHash": "6e1d533c62abb5dcb92775fd5aabc198923a198a7e1e498cac585be3c467b270"
+    },
+    "social-media-analyzer": {
+      "source": "alirezarezvani/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing-skill/skills/social-media-analyzer/SKILL.md",
+      "computedHash": "649fbf033a3ee3edc9cdf324a683471c9010ef09f5c69c3c117ecddcc08fac53"
+    },
+    "social-media-trends-research": {
+      "source": "drshailesh88/integrated_content_os",
+      "sourceType": "github",
+      "skillPath": "skills/cardiology/social-media-trends-research/SKILL.md",
+      "computedHash": "281ccb70325481022b45e880da19d353a37e31926dfdcc5942be5a92186ad379"
+    },
+    "tiktok-captions": {
+      "source": "kostja94/marketing-skills",
+      "sourceType": "github",
+      "skillPath": "skills/platforms/tiktok/SKILL.md",
+      "computedHash": "ba7179c15c73045ced538e25e02af9f10f5a4638df6ca728d40b0fba7389d5c9"
+    },
+    "video": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/video/SKILL.md",
+      "computedHash": "35382cb46e02686cca2485826ddfc6b0376d112c8f6b30dcbac3966ae3b6aa90"
+    }
+  }
+}
